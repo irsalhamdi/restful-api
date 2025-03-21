@@ -40,8 +40,6 @@
 <h2>Authentication</h2>
 <p>Semua endpoint memerlukan autentikasi menggunakan <strong>Bearer Token</strong>:</p>
 <pre>{ "id": 1, "name": "John Doe", "email": "john@example.com" }</pre>
-
-<h2>Error Handling</h2>
 <table>
     <tr>
         <th>Status Code</th>
@@ -74,4 +72,4 @@
 </table>
 
 <h2>Contact</h2>
-<p>Jika ada pertanyaan lebih lanjut, silakan hubungi <strong>support@ewallet.com</strong>.</p>
+<p>Jika ada pertanyaan lebih lanjut, silakan hubungi <strong>irsalhamdi@gmail.com</strong>.</p>
