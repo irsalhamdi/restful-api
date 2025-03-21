@@ -40,37 +40,5 @@
  <p>Semua endpoint memerlukan autentikasi menggunakan <strong>Bearer Token</strong>:</p>
  <pre>{ "id": 1, "name": "John Doe", "email": "john@example.com" }</pre>
  
- <h2>Error Handling</h2>
- <table>
-     <tr>
-         <th>Status Code</th>
-         <th>Meaning</th>
-     </tr>
-     <tr>
-         <td>200</td>
-         <td>OK</td>
-     </tr>
-     <tr>
-         <td>201</td>
-         <td>Created</td>
-     </tr>
-     <tr>
-         <td>400</td>
-         <td>Bad Request</td>
-     </tr>
-     <tr>
-         <td>401</td>
-         <td>Unauthorized</td>
-     </tr>
-     <tr>
-         <td>404</td>
-         <td>Not Found</td>
-     </tr>
-     <tr>
-         <td>500</td>
-         <td>Internal Server Error</td>
-     </tr>
- </table>
- 
  <h2>Contact</h2>
- <p>Jika ada pertanyaan lebih lanjut, silakan hubungi <strong>support@ewallet.com</strong>.</p>
+ <p>Jika ada pertanyaan lebih lanjut, silakan hubungi <strong>irsalhamdi@ewallet.com</strong>.</p>
