@@ -5,7 +5,11 @@
  <h3>1. User Registration</h3>
  <p><strong>Endpoint:</strong> <code>POST /register</code></p>
  <p><strong>Description:</strong> Mendaftarkan pengguna baru.</p>
- <pre>{ "name": "John Doe", "email": "john@example.com", "password": "password123" }</pre>
+ <pre>{ </pre>
+<pre>"name": "John Doe",</pre>
+<pre> "email": "john@example.com", </pre>
+<pre> "password": "password123" </pre>
+<pre> }</pre>
  <pre>{ "status": "success", "message": "User registered successfully" }</pre>
  
  <h3>2. User Login</h3>
